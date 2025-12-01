@@ -1,1 +1,2 @@
-# 4th-Repo
+# 4th-Repo 
+In this asignment, the def main function is inputting the main functions that will be used to get the information from the user. The get average and check average functions are used. It will then prompt the user to give 3 test scores. To calculate the average it will then take the 3 scores divided by 3 and then print the average score of all 3 tests and then return the average. After this the check average function is used to print a message depending on what is the average score. It then calls the main function to run the function. 
